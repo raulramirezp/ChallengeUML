@@ -1,6 +1,6 @@
 package pattern;
 
-public enum ProductType {
+public enum ProductType{
     X,
     Y
 }

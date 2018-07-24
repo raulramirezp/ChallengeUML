@@ -8,6 +8,6 @@ public class ProductAX implements ProductA {
 
     @Override
     public String getDescription(){
-        return "This is your produc AX";
+        return "This is your product AX";
     }
 }
